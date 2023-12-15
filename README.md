@@ -16,7 +16,7 @@ PRs should be posted _before_ class begins on Tuesday, January 2, 2024.
 - `cd` into an appropriate location on your local, we recommend the Desktop
 - Clone the assessment repository
 - `cd` into the assessment
-- Create a branch with the unit and your name, e.g `unit-1-sarah-proctor`
+- Create a branch with the unit and your name, e.g `unit-3-sarah-proctor`
 - Run $ `yarn` to install the React dependencies
 - Run $ `yarn start` to start the server
 - Complete all assessment tasks
