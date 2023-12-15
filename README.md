@@ -37,7 +37,7 @@ PRs should be posted _before_ class begins on Tuesday, January 2, 2024.
 
 ### Interview Practice Questions
 
-1. What are two (3) syntax difference between HTML and JSX?
+1. What are three (3) syntax difference between HTML and JSX?
 
 2. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
 
